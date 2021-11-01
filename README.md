@@ -1,8 +1,6 @@
 <h1>増井の壁紙</h1>
 
-<img src="https://github.com/masui/Wallpaper/blob/main/0164d7dfdbb44ce896061459b9d73d7b.jpeg" width=240>
-<img src="https://github.com/masui/Wallpaper/blob/main/08b912a024be3a2327f16e03a63653cc.jpeg" width=240>
-<img src="https://github.com/masui/Wallpaper/blob/main/135239637b7012169e83c547ac1e055e.jpeg" width=240>
+<img src="https://github.com/masui/Wallpaper/blob/main/0164d7dfdbb44ce896061459b9d73d7b.jpeg" width=240> <img src="https://github.com/masui/Wallpaper/blob/main/08b912a024be3a2327f16e03a63653cc.jpeg" width=240> <img src="https://github.com/masui/Wallpaper/blob/main/135239637b7012169e83c547ac1e055e.jpeg" width=240>
 <img src="https://github.com/masui/Wallpaper/blob/main/17053ed622b55eeb82ddd5265dd3cea7.jpeg" width=240>
 <img src="https://github.com/masui/Wallpaper/blob/main/1d53f5f104bd4e78304e1571efd6bf49.jpeg" width=240>
 <img src="https://github.com/masui/Wallpaper/blob/main/1f09a55c6ae3d15a1d6e245cf12ee49b.jpeg" width=240>
